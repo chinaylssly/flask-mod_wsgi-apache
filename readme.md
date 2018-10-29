@@ -32,7 +32,7 @@
 5，wsgi配置见文件app.wsgi
 
 
-6，如果用apache启动网站服务，读写本地文件必须使用绝对路径。
+6，如果用apache启动网站服务，读写本地文件必须使用绝对路径
 
 
 7，启动apache服务，直接 cmd httpd.exe
